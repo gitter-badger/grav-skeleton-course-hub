@@ -1,5 +1,7 @@
 # Course Hub Skeleton
 
+[![Join the chat at https://gitter.im/hibbitts-design/grav-skeleton-course-hub](https://badges.gitter.im/hibbitts-design/grav-skeleton-course-hub.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Demo](https://img.shields.io/badge/Demo-CourseHub-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-course-hub-bones/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-course-hub/blob/master/LICENSE)
 
